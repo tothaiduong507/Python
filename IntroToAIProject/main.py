@@ -66,7 +66,8 @@ def bfs(x,y):
                 else:
                     return
     return
-
+def shortestPath(i,j) :
+    pass
 def dfs(x,y,total_steps) :
     stack.append([x,y])
     visited[x][y] = True

@@ -17,12 +17,12 @@ total_steps=0
 def input() :
     pass
 
-#This function  will calculate the execution time and return it
+#This function  will calculate the execution time and return it(Tuyen)
 def executionTimeCount():
     pass
 
 #This function will find the shortest path, percept sequence , action needed to take
-# from (0,0) to (i,j) using IDA*(Chien)
+# from (0,0) to (i,j) using IDA*(Chien)(Tuyen)
 def shortestPath(i,j):
     pass
 

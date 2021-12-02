@@ -13,7 +13,7 @@ stack=[]
 total_steps=0
 
 #------------------------------------------------------------------------------------------------------------------
-#This function will receive input data :R,C, matrix
+#This function will receive input data :R,C, matrix(Duong)
 def input() :
     pass
 
@@ -27,7 +27,7 @@ def shortestPath(i,j):
     pass
 
 #This function will find the shortest path, percept sequence , action needed to take
-# from (0,0) to (i,j) using BFS(Minh)
+# from (0,0) to (i,j) using BFS(Minh)(Duong)
 def BFS():
     pass
 def shortestPathBFS(i,j) :

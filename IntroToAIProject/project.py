@@ -22,7 +22,7 @@ def executionTimeCount():
     pass
 
 #This function will find the shortest path, percept sequence , action needed to take
-# from (0,0) to (i,j) using IDA*
+# from (0,0) to (i,j) using IDA*(Chien)
 def shortestPath(i,j):
     pass
 
